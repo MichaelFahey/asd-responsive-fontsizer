@@ -12,7 +12,7 @@
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_responsive_fontsizer
  * License:        GPL3
- * Version:        1.201804021
+ * Version:        1.201812011
  *
  * ASD Responsive FontSizer is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

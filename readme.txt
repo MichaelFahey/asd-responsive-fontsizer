@@ -4,7 +4,7 @@ Tags: responsive, font-size, underscores
 Requires PHP: 5.6
 Requires at least: 3.6
 Tested up to: 4.9.8
-Stable tag: 1.201811241
+Stable tag: 1.201812011
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Plugin URI:  https://artisansitedesigns.com/plugins/asd-responsive-font-sizer/
@@ -35,6 +35,9 @@ Q: Do I have to use the save buttons for each separate size?
 A: Indeed, it's a known inconvenience, until I work up a mechanism to simplify each screen size must be saved individually with its own save button.
 
 == Changelog ==
+= 1.201812011 2018-12-01 =
+codesniffer audit, submodule update
+
 = 1.201811241 2018-11-24 =
 First release candidate.
 
